@@ -1,0 +1,1 @@
+Stand Battle is a personal Java project focused on strengthening my understanding of Java fundamentals through hands-on development, applying core programming concepts to build a functional battle system.
